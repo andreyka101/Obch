@@ -12,13 +12,13 @@
 
 # Задачи на условия (if else):
 # Номер 9.1
-#int(input("Введите данные: "))
-#c = ""
-#int = c 
-#if not int:
- #   print(False)
-#else:
- #   print(True)
+# int(input("Введите данные: "))
+# c = ""
+# int = c 
+# if not int:
+#    print(False)
+# else:
+#    print(True)
 
 # Номер 9.2
 #x1 = int(input("Введите делимое: "))
